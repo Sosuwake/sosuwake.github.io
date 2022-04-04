@@ -82,7 +82,7 @@ p {
     height: 550px;
 }
 
-img {
+.image img {
     width: auto;
     max-height: 100%;
     padding-left: 120px;
